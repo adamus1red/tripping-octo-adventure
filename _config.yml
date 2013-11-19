@@ -1,0 +1,86 @@
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+name: ID-10T Errors
+
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: Errors! Errors everywhere!
+
+# Your name, as you want it to appear underneath each post and in the footer
+author: ID-10T
+
+# Logo image
+logo: ./static/images/logos/strathseds-200px.png
+
+# Your email if you want it to be linked on the contact page
+contact_email: rjb12180@uni.strath.ac.uk
+web_email: rjb12180+cs211WEB@uni.strath.ac.uk
+
+# Committee data
+committee_positions: [designer, writer1, writer2, beer, supervisor]
+committee:
+  designer:
+    name: Adam McGhie
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: rjb12180@uni.strath.ac.uk
+    position: Designer
+  writer1:
+    name: Tom Maxwell
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: XXXXXX@uni.strath.ac.uk
+    position: Writer
+  writer2:
+    name: Thomas Sinclair
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: XXXXXX@uni.strath.ac.uk
+    position: Writer
+  beer:
+    name: Grant 
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: XXXXXX@uni.strath.ac.uk
+    position: Head of catering
+  supervisor:
+    name: Darren
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: XXXXXX@uni.strath.ac.uk
+    position: The guy that cries in the corner
+
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+baseurl: .
+url: ./
+
+# Static URL's
+staticurl: ./static
+imageurl: ./static/images/
+
+# Link to the strathseds google doc
+joinlink: https://docs.google.com/forms/d/1se_VAeEZ0Coy9uWl6fSnfEhbLANFqqCxk_F3Ye6W_CM/viewform?embedded=true
+
+# Google analytics id
+analyticsID: UA-39702307-1
+analyticsDomain: strathseds.org
+
+twitter_name: StrathSEDS
+twitter_creator: '@StrathSEDS'
+twitter_title: Students for the Exploration and Development of Space
+twitter_description: The Strathclyde Students for the Exploration and Development of Space is an engineering/science based society for students of the University of Strathclyde.
+twitter_domain: strathseds.org
+
+facebook_page_name: StrathSEDS
+
+# Misc
+future: false
+
+#### Under the Hood Stuff #####
+
+# Use rdiscount as the markdown engine because it generates html5 compliant code for stuff like footnotes
+# If you use maroku (default engine) some of your generated pages may not validate or lint as html5
+# If you don't have it install it via gem install rdiscount
+markdown: rdiscount
+
+# Continue compiling even if there are errors. Keep it true, unless troubleshooting.
+auto: true
+
+# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
+permalink: :year-:month-:day-:title.html
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: README.md, package.json, grunt.js, Gruntfile.js, node_modules, gen.sh 
