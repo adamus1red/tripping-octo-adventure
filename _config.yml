@@ -52,8 +52,8 @@ staticurl: ./static
 imageurl: ./static/images/
 
 # Google analytics id
-analyticsID: UA-39702307-1
-analyticsDomain: strathseds.org
+analyticsID: UA-45927086-1
+analyticsDomain: digitalwizardry.org
 
 # Misc
 future: false
