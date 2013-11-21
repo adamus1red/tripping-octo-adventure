@@ -69,7 +69,7 @@ markdown: rdiscount
 auto: true
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: :year-:month-:day-:title.html
+permalink: :title.html
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: README.md, package.json, grunt.js, Gruntfile.js, node_modules

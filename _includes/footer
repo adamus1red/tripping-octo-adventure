@@ -6,7 +6,7 @@
             <a href="https://www.facebook.com/strathseds"><img src="{{site.staticurl}}/images/icons/facebook.png" width="24" height="24"></a>
             </span>
             <span class="pull-right">
-            &#169; StrathSEDS {{ site.time | date: '%Y' }} &middot; <a href="{{site.baseurl}}/about.html">About StrathSEDS</a>
+            &#169; {{site.name}} {{ site.time | date: '%Y' }} &middot; <a href="{{site.baseurl}}/about.html">About {{site.name}}</a>
             </span>
             </p>
       </div>

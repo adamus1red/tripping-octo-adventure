@@ -14,6 +14,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <!-- Le styles -->
     <link href="{{site.staticurl}}/stylesheets/bootstrap.min.css" rel="stylesheet">
+    <link href="{{site.staticurl}}/stylesheets/bootstrap-theme.min.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 30px;
@@ -34,7 +35,7 @@
       .jumbotron {
         margin: 20px 0;
         text-align: center;
-        background-color: #E38AAE;
+        background-color: #fff;
       }
       .jumbotron h1 {
         font-size: 100px;
@@ -104,17 +105,15 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li{% if page.url == '/index.html' %} class="active"{% endif %}><a href="./index.html">Home</a></li>
-                    <li{% if page.url == '/posts.html' %} class="active"{% endif %}><a href="./posts.html">Blog Posts</a></li>
-                    <li{% if page.url == '/copyright.html' %} class="active"{% endif %}><a href="./copyright.html">Copyright</a></li>
+                    <!--<li{% if page.url == '/posts.html' %} class="active"{% endif %}><a href="./posts.html">Blog Posts</a></li>-->
                     <li{% if page.url == '/about.html' %} class="active"{% endif %}><a href="./about.html">About</a></li>
-                    <!--<li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+                    <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="{{site.baseurl}}/about/">About</a></li>
-                        <li><a href="{{site.baseurl}}/contact/">Contact Us</a></li>
-                        <li><a href="{{site.baseurl}}/terms/">Terms of Use</a></li>
+                        <li{% if page.url == '/copyright.html' %} class="active"{% endif %}><a href="./copyright.html">Copyright</a></li>
+                        <li{% if page.url == '/data-protection.html' %} class="active"{% endif %}><a href="./data-protection.html">Data Protection</a></li>
                     </ul>
-                    </li>-->
+                    </li>
                 </ul>
             </div><!--/.navbar-collapse -->
         </div>
