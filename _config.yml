@@ -12,7 +12,7 @@ logo: ./static/images/logos/strathseds-200px.png
 
 # Your email if you want it to be linked on the contact page
 contact_email: rjb12180@uni.strath.ac.uk
-web_email: rjb12180+cs211WEB@uni.strath.ac.uk
+web_email: rjb12180@uni.strath.ac.uk
 
 # Committee data
 committee_positions: [designer, writer1, writer2, beer, supervisor]
@@ -51,20 +51,9 @@ url: ./
 staticurl: ./static
 imageurl: ./static/images/
 
-# Link to the strathseds google doc
-joinlink: https://docs.google.com/forms/d/1se_VAeEZ0Coy9uWl6fSnfEhbLANFqqCxk_F3Ye6W_CM/viewform?embedded=true
-
 # Google analytics id
 analyticsID: UA-39702307-1
 analyticsDomain: strathseds.org
-
-twitter_name: StrathSEDS
-twitter_creator: '@StrathSEDS'
-twitter_title: Students for the Exploration and Development of Space
-twitter_description: The Strathclyde Students for the Exploration and Development of Space is an engineering/science based society for students of the University of Strathclyde.
-twitter_domain: strathseds.org
-
-facebook_page_name: StrathSEDS
 
 # Misc
 future: false
@@ -83,4 +72,4 @@ auto: true
 permalink: :year-:month-:day-:title.html
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: README.md, package.json, grunt.js, Gruntfile.js, node_modules, gen.sh 
+exclude: README.md, package.json, grunt.js, Gruntfile.js, node_modules
