@@ -1,5 +1,7 @@
-strathseds.org
-====================
+
+
+tripping-octo-adventure
+=======================
 
 This is the site for StrathSEDS. New layouts and designs are tested here before being deployed on the main site.
 
@@ -42,29 +44,10 @@ Following features are available:
 
 * Automatically generate a valid RSS feed (see feed.xml in root directory).
 * Automatically generate a valid Google Sitemap (see sitemap.xml in root directory).
-* Automatically generate a .htaccess file with error 404 & 500 support
 * Automatically generate committee list using a dataset
-
-Linting & Validation
----
-
-You can use [Grunt.js][gr] to automatically validate the HTML in your generated site. First install the dependencies:
-
-    npm install
-
-Then run Grunt:
-
-    grunt
-
-This will automatically run all the files in `_site` directory through a HTML5 linter/validator.
-
-Credits
--------
-
-The web font icons have been created based on the [Typicon][ty] set and customized via the [Fontello][fo] service.
-
-All other content, edits & code are by [StrathSEDS Web team][ss-wt]
-
+* Uses relative links
+* Has optional Facebook and Twitter info card support
+* Has iOS homepage support
 
 Licence
 -------
