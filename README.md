@@ -62,9 +62,4 @@ Please see the [terms page][ss-c]
 [dp]: http://recursive-design.com
 [gr]: http://gruntjs.com
 [no]: http://nodejs.com
-[cc-l]: http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png
-[ty]: http://typicons.com/
-[fo]: http://fontello.com/
-[ss-c]: http://strathseds.org/contact
-[ss-c]: http://strathseds.org/terms
-[ss-wt]: http://strathseds.org/projects/website
+[ss-c]: http://www.digitalwizardry.org/tripping-octo-adventure/terms
