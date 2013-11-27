@@ -38,12 +38,12 @@ title: About ID-10T
     </div>   
     <div class="tab-pane fade" id="committee">
         <section>
-            <p class="lead">ID-10T Committee:</p>
+            <p class="lead">ID-10T team:</p>
             <ul class="media-list">
                 {% for committee_positions in site.committee_positions %}
                 {% assign committee = site.committee[committee_positions] %}
                 <li class="media">
-                    <img class="pull-left img-thumbnail" src="https://0.gravatar.com/avatar/{{committee.gravatar}}?s=55" alt="{{committee.name}}" width="55px"/>
+                    <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/{{committee.image}}" alt="{{committee.name}}" width="55px"/>
                     <div class="media-body">
                         <h4 class="media-heading">{{committee.position}}</h4>
                         <p>Name: {{committee.name}}</p>
