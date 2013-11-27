@@ -62,4 +62,4 @@ Please see the [terms page][ss-c]
 [dp]: http://recursive-design.com
 [gr]: http://gruntjs.com
 [no]: http://nodejs.com
-[ss-c]: http://www.digitalwizardry.org/tripping-octo-adventure/terms
+[ss-c]: http://www.digitalwizardry.org/tripping-octo-adventure/about.html
