@@ -22,7 +22,6 @@ committee:
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: rjb12180@uni.strath.ac.uk
     position: Designer
-    image: default.jpg
   writer1:
     name: Tom Maxwell
     gravatar: 29e309f15dc5748a962f13185d90bf62
@@ -40,13 +39,11 @@ committee:
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: wsb12157@uni.strath.ac.uk
     position: Head of catering
-    image: default.jpg
   supervisor:
     name: Darren Tang
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: XXXXXX@uni.strath.ac.uk
     position: The guy that cries in the corner
-    image: default.jpg
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 baseurl: .
