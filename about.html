@@ -43,9 +43,7 @@ title: About ID-10T
                 {% for committee_positions in site.committee_positions %}
                 {% assign committee = site.committee[committee_positions] %}
                 <li class="media">
-                    {% if committee.image == '' %}
-                    <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/default.jpg" alt="{{committee.name}}" width="55px"/>
-                    {% elseif committee.image == null %}
+                    {% if committee.image == blank %}
                     <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/default.jpg" alt="{{committee.name}}" width="55px"/>
                     {% else %}
                     <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/{{committee.image}}" alt="{{committee.name}}" width="55px"/>
