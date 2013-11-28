@@ -14,37 +14,6 @@ logo: ./static/images/logos/strathseds-200px.png
 contact_email: rjb12180@uni.strath.ac.uk
 web_email: rjb12180@uni.strath.ac.uk
 
-# Committee data
-committee_positions: [designer, writer1, writer2, beer, supervisor]
-committee:
-  designer:
-    name: Adam McGhie
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: rjb12180@uni.strath.ac.uk
-    position: Designer
-  writer1:
-    name: Tom Maxwell
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: gvb12182@uni.strath.ac.uk
-    position: Writer
-    image: tom.jpg
-  writer2:
-    name: Thomas Sinclair
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: mlb12174@uni.strath.ac.uk
-    position: Writer
-    image: thomas.jpg
-  beer:
-    name: Grant Toghill
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: wsb12157@uni.strath.ac.uk
-    position: Head of catering
-  supervisor:
-    name: Darren Tang
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: XXXXXX@uni.strath.ac.uk
-    position: The guy that cries in the corner
-
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 baseurl: .
 url: ./
