@@ -45,6 +45,10 @@ title: About ID-10T
                 <li class="media">
                     {% if committee.image == blank %}
                     <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/default.jpg" alt="{{committee.name}}" width="55px"/>
+                    {% elseif committee.image == nil %}
+                    <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/default.jpg" alt="{{committee.name}}" width="55px"/>
+                    {% elseif committee.image == %}
+                    <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/default.jpg" alt="{{committee.name}}" width="55px"/>
                     {% else %}
                     <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/{{committee.image}}" alt="{{committee.name}}" width="55px"/>
                     {% endif %}
