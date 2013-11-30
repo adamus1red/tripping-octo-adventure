@@ -30,4 +30,4 @@ There are different types of membership of the society. These are:
 5.	CITP: To be a Chartered IT Professional an applicant must have 3 to 5 years and have been in a role which carries “significant responsibility, full accountability and presenting a challenging range of complex work activities.”
 6.	Fellowship: The last type of membership is for IT Professionals “with exceptional experience, seniority, authority and eminence.”
 
-## Continued on [next page]({{site.baseurl))/professional-issues-2.html
+## Continued on [next page]({{site.baseurl}})/professional-issues-2.html
