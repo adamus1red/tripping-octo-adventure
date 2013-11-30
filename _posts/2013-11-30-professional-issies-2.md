@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Protection
+title: Professional Issues
 ---
 
 #The Federation Against Software Theft

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Protection
+title: Professional Issues
 ---
 
 #The British Computer Society
