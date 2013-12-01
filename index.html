@@ -9,13 +9,29 @@ title: Home
         <hr class="hidden-xs">
       <!-- Example row of columns -->
         <div class="row">
-        {% for post in site.posts limit: 4 %}
             <div class="col-xs-12 col-sm-6 col-md-3">
-                <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
-                <p><span class="glyphicon glyphicon-user"></span>{% if post.author != nil %}{{post.author}}{% else %}{{site.author}}{% endif %}</p>
-                <p>{{ post.excerpt }}</p>
-                <p><a class="btn btn-default" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></p>
+                <h2><a href="./copyright.html">Copyright</a></h2>
+                <p><span class="glyphicon glyphicon-user"></span>ID-10T</p>
+                <p>The BitTorrent protocol, designed by Bram Cohen. This protocol allows people to share...</p>
+                <p><a class="btn btn-default" href="./copyright.html">View details &#187;</a></p>
             </div>
-        {% endfor %}
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <h2><a href="./professional-issies-1.html">Professional Issues</a></h2>
+                <p><span class="glyphicon glyphicon-user"></span>ID-10T</p>
+                <p><p>The British Computer Society...</p></p>
+                <p><a class="btn btn-default" href="./professional-issies-1.html">View details &#187;</a></p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <h2><a href="./data-protection-1.html">Data Protection</a></h2>
+                <p><span class="glyphicon glyphicon-user"></span>ID-10T</p>
+                <p><p>DATA!</p></p>
+                <p><a class="btn btn-default" href="./data-protection-1.html">View details &#187;</a></p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <h2><a href="./copyright.html">Professional Computer Scientists</a></h2>
+                <p><span class="glyphicon glyphicon-user"></span>ID-10T</p>
+                <p><p>Role of Professional Computer Scientists</p></p>
+                <p><a class="btn btn-default" href="./professional-computer-scientists-1.html">View details &#187;</a></p>
+            </div>
         </div>
         <p class="text-center"><a class="btn btn-large btn-default" href="{{site.baseurl}}/posts.html">More  Posts</a></p>
