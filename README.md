@@ -1,9 +1,7 @@
-
-
 tripping-octo-adventure
 =======================
 
-This is the site for StrathSEDS. New layouts and designs are tested here before being deployed on the main site.
+This is the site for ID-10T's.
 
 It uses [bootstrap](https://github.com/twitter/bootstrap), [jekyll][jk], [ruby][rb], and [liquid](https://github.com/Shopify/liquid/)
 
