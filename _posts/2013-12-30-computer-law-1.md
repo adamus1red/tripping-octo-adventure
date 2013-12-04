@@ -21,6 +21,6 @@ Failure to comply with this law will lead to the ICO (information commissioners 
 
 ### Examples of Data Protection breach
 
-In April 2011, the electronics giant 'Sony' became victim of a malicious computer hack. This led to users passwords, names, addresses, dates of birth and payment card information to be at risk of theft. This hack led to the investigation of Sony's network security, which was then followed after with a £250,000 fine from the ICO
+In April 2011, the electronics giant 'Sony' became victim of a malicious computer hack. This led to users passwords, names, addresses, dates of birth and payment card information to be at risk of theft. This hack led to the investigation of Sony's network security, which was then followed after with a Â£250,000 fine from the ICO
 
 ## Continued on [Next Page]({{site.baseurl}}/computer-law-2.html)
