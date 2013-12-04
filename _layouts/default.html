@@ -70,7 +70,14 @@
     }
     </style>
     <script src="{{site.staticurl}}/javascript/disadvantage-ie.js"></script>
-   <!-- no IE! -->
+    <!-- no IE! -->
+    !--[if IE]>
+    <script>
+        $(window).load(function() {
+            $('<style>body{font-family:"Comic Sans MS"!important}#branding h2{font-size:1.25em!important}</style>').insertAfter('#branding');
+        });
+    </script>
+    <![endif]-->
     <!-- analytics code -->
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
