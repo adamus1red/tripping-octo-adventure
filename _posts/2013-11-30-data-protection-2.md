@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Data Protection
+title: How does Data Protection affect me?
 ---
-
-###How does it affect me?
 
 Computer scientists can be affected in their personal and work lives by the Data Protection Act. It can affect them personally in situations where they could be buying something from a company and have to pass over personal details therefore they have to watch what information they are passing on and be aware of what the information will be used for by the company.
 
