@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Data Protection Part 1
-excerpt: What is Data Protection?
+title: What is Data Protection?
+excerpt: Data Protection
+author: Thomas Sinclair
 ---
 
 ###What is Data Protection?
