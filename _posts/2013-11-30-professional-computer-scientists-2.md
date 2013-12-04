@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Role of Professional Computer Scientists Part 2
-excerpt: Misuse of computer systems is . . .
+title: Computer misuse
+excerpt: Professional Computer Scientists
+author: Grant Toghill
 ---
 
 Misuse of computer systems is an important area where professional computer scientists have a vital role to play. With a growing amount of computer usage, that in turn brings a growth in the amount of misuse for personal gain or otherwise. Professional computer scientists are not exempt from this so as well as keeping fellow professionals and themselves from getting involved, they also have to help prevent future acts of misuse.
