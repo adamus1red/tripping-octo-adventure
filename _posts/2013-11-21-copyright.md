@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Copyright Part 2
+title: Copyright Part 1
 excerpt: BitTorrent isn't entirely evil
 ---
 
