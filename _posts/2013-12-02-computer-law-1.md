@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Computer Law
+title: Computer Law Part 1
+excerpt: In the world computer science, many laws . . .
 ---
 
-In the world computer science, many Laws are put into place so that computer scientists are protected from people stealing their intellectual property. Furthermore, Laws are also put into place to protect society from digital thieves trying to steal valuable passwords, banking information and data. In addition to this, some laws are also put into place so that organisations do not take advantage of personal information about customers or clients.
+In the world computer science, many laws are put into place so that computer scientists are protected from people stealing their intellectual property. Furthermore, Laws are also put into place to protect society from digital thieves trying to steal valuable passwords, banking information and data. In addition to this, some laws are also put into place so that organisations do not take advantage of personal information about customers or clients.
 Data Protection Act 1998
 
 ### What the law basically does
