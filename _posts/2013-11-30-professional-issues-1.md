@@ -1,9 +1,12 @@
 ---
 layout: page
-title: The British Computer Society
+title: The Professionl Body Part 1
+excerpt: The professional body for computing in the United Kingdom . . .
 ---
 
-The professional body for computing the United Kingdom is the British Computer Society, or BCS. The BCS was formed in 1957, gaining its royal charter in 1984. There are over 70,000 members of the society spread over 100 countries across the world, this means that while the society is based in the United Kingdom, it has a global reach.
+###The British Computer Society
+
+The professional body for computing in the United Kingdom is the British Computer Society, or BCS. The BCS was formed in 1957, gaining its royal charter in 1984. There are over 70,000 members of the society spread over 100 countries across the world, this means that while the society is based in the United Kingdom, it has a global reach.
 
 The BCS's mission is to "promote wider social and economic progress through the advancement of information technology sciences and practice". It represents its members and the IT profession as a whole on issues that are relevant to society. 
 The BCS talks to the government on issues which cover large IT projects, such as the NHS IT system project to privacy and piracy. This means that the BCS plays an important role in society as a whole.
