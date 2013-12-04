@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Data Protection Part 1
+excerpt: What is Data Protection?
 ---
 
 ###What is Data Protection?
