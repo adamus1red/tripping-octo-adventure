@@ -3,9 +3,9 @@ layout: page
 title: Data Protection
 ---
 
-What is Data Protection?
+##What is Data Protection?
 
-The Data Protection Act is a law that protects the personal information of any person living in the United Kingdom that is stored by any company or organisation. The company that collects and holds the information is normally referred to as the “Data Controller” while the customer who is providing the information is known as the “Data Subject”. Personal information can be any kind of data that can uniquely identify a person such as a name, an address or even a phone number. The Act was originally passed in the UK but now many other countries across have passed the same or similar laws as information can sometimes be stored across several companies. The Data Protection Act gives people the [right to:](http://en.wikipedia.org/wiki/Data_Protection_Act_1998#Subject_rights)
+The Data Protection Act is a law that protects the personal information of any person living in the United Kingdom that is stored by any company or organisatio. The company that collects and holds the information is normally referred to as the “Data Controller” while the customer who is providing the information is known as the “Data Subject”. Personal information can be any kind of data that can uniquely identify a person such as a name, an address or even a phone number. The Act was originally passed in the UK but now many other countries across have passed the same or similar laws as information can sometimes be stored across several companies. The Data Protection Act gives people the [right to:](http://en.wikipedia.org/wiki/Data_Protection_Act_1998#Subject_rights)
 
 View the data an organisation holds on them.
 Request that incorrect information be corrected.

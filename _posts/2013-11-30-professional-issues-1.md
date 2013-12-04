@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Issues
+title: Professional Body
 ---
 
 #The British Computer Society
@@ -17,9 +17,9 @@ The BCS has a code of conduct, or code of ethics, that its members must adhere t
 2.	Professional Competence and Integrity
 3.	Duty to Relevant Authority
 4.	Duty to the Profession
-The code of conduct is there to inform and guide members of the society in issues that may be ethically or morally complicated. The full code of conduct is available on the BCS website, and can be accessed here.
+The code of conduct is there to inform and guide members of the society in issues that may be ethically or morally complicated. The full code of conduct is available on the BCS website, and can be accessed [here](http://www.bcs.org/category/6030).
 
-One organization created by the BCS is the Federation Against Software Theft or FAST.
+One organization created by the BCS is the Federation Against Software Theft or [FAST]({{site.baseurl}}/professional-issues-2.html).
 
 There are different types of membership of the society. These are:
 
@@ -29,5 +29,3 @@ There are different types of membership of the society. These are:
 4.	Professional: To be a professional member an applicant must have either five years of IT experience, or have 2-3 years experience and a relevant recognised qualification.
 5.	CITP: To be a Chartered IT Professional an applicant must have 3 to 5 years and have been in a role which carries "significant responsibility, full accountability and presenting a challenging range of complex work activities."
 6.	Fellowship: The last type of membership is for IT Professionals "with exceptional experience, seniority, authority and eminence."
-
-## Continued on [next page]({{site.baseurl}}/professional-issues-2.html)

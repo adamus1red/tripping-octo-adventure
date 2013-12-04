@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Professional Issues
+title: The Federation Against Software Theft
 ---
-
-#The Federation Against Software Theft
-
 
 FAST was the first organisation to promote the use of professional management of legitimate software, when it was formed in 1984. The organisation aims to reduce the use of software piracy in the business sectors. 
 
