@@ -1,11 +1,12 @@
 ---
 layout: page
-title: The Copyright, Designs and Patents Act 1988
+title: Computer Law Part 2
+excerpt: This law essentially stops another body from stealing . . .
 ---
 
 ###What the law basically does
 
-this law essentially stops another body from stealing original ideas and portraying those ideas as their own. 
+This law essentially stops another body from stealing original ideas and portraying those ideas as their own. 
 It stops other bodies from changing and altering the original works of others.
 
 ### How this affects a computer scientist
