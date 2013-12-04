@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Federation Against Software Theft
-excerpt: The Prossentional Body
+excerpt: The Professional Body
 author: Tom Maxwell
 ---
 
