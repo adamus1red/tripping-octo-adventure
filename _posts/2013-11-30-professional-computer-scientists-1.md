@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Role of Professional Computer Scientists Part 1
-excerpt: Professional computer scientists play an . . .
+title: Role of Professional Computer Scientists in society
+excerpt: Professional Computer Scientists
+author: Grant Toghill
 ---
 
 Professional computer scientists play an important role in modern day society in many different aspects including ethical and law. With computers playing an increasing role in the modern world, with over 6 billion mobile phone subscriptions in the world as of [2012](http://www.bbc.co.uk/news/technology-19925506), it means that computer scientists have a vital job to keep up with the increased demand. 
