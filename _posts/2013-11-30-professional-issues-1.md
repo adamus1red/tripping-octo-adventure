@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Issues
+title: Professional Body
 ---
 
 #The British Computer Society
