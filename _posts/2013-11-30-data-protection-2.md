@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Data Protection Part 2
+excerpt: How does Data Protection affect me?
 ---
 
 ###How does Data Protection affect me?
