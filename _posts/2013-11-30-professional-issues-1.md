@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The British Computer Society
-excerpt: The professional body for computing in the United Kingdom . . .  - The Professional Body
+excerpt: The Professional Body
 author: Tom Maxwell
 ---
 
