@@ -24,7 +24,7 @@ committee:
     position: Writer of Copyright & Designer
     image: default.jpg
   writer1:
-    name: Tom Maxwell
+    name: Tom Maxwell<!-- Tom by day. Tammy by night -->
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: gvb12182@uni.strath.ac.uk
     position: Writer of Professional Issues 
@@ -44,7 +44,7 @@ committee:
   supervisor:
     name: Darren Tang
     gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: XXXXXX@uni.strath.ac.uk
+    email: pjb12147@uni.strath.ac.uk
     position: Writer of Computer Law
     image: default.jpg
 
