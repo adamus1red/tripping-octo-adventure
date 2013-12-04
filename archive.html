@@ -1,0 +1,27 @@
+---
+layout: page
+title: Archive
+---
+
+    <section>
+        <table>
+            <thead>
+                <tr>
+                    <th>Date Published</th>
+                    <th>Title</th>
+                    <th>Category</th>
+                    <th>Poster</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for post in site.posts %}
+                <tr>
+                    <td><span class="glyphicon glyphicon-time"></span> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></td>  
+                    <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
+                    <td><span class="category"><span class="glyphicon glyphicon-tag"></span> {{post.categories | category_links}}</span></td>
+                    <td><span class="glyphicon glyphicon-user"></span> {{post.author}}</td>
+                </tr>
+    	{% endfor %}
+            </tbody>
+        </table>
+    </section>

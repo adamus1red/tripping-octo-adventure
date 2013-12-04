@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Copyright
+excerpt: BitTorrent isn't entirely evil
 ---
 
 The BitTorrent protocol, designed by Bram Cohen. This protocol allows people to share data via a peer-to-peer network; this means that it is a decentralised network with no master control server to slow down the network. Due to this all downloaders are uploaders design it is very, very difficult to stop the spread of a file once it hits the BitTorrent Swarm. BitTorrent was not designed with copyright infringement in mind it was written to simply provide a highly efficient method of transferring large files over a pre-broadband internet. 
