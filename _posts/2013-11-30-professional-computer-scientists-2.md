@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Computer misuse
+excerpt: Misuse of computer systems is . . .
 ---
 
 Misuse of computer systems is an important area where professional computer scientists have a vital role to play. With a growing amount of computer usage, that in turn brings a growth in the amount of misuse for personal gain or otherwise. Professional computer scientists are not exempt from this so as well as keeping fellow professionals and themselves from getting involved, they also have to help prevent future acts of misuse.
