@@ -1,7 +1,8 @@
 ---
 layout: page
-title: The Professionl Body Part 1
-excerpt: The professional body for computing in the United Kingdom . . .
+title: The British Computer Society
+excerpt: The professional body for computing in the United Kingdom . . .  - The professional body
+author: Tom Maxwell
 ---
 
 ###The British Computer Society
