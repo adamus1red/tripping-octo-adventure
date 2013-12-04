@@ -5,7 +5,7 @@ excerpt: Copyright
 author: Adam McGhie
 ---
 
-The BitTorrent protocol, designed by Bram Cohen. This protocol allows people to share data via a peer-to-peer network; this means that it is a decentralised network with no master control server to slow down the network. Due to this all downloaders are uploaders design it is very, very difficult to stop the spread of a file once it hits the BitTorrent Swarm. BitTorrent was not designed with copyright infringement in mind it was written to simply provide a highly efficient method of transferring large files over a pre-broadband internet. 
+The BitTorrent protocol, designed by Bram Cohen. This protocol allows people to share data via a peer-to-peer network. This means that it is a decentralised network with no master control server to slow down the network. Due to this all downloaders are uploaders design it is very, very difficult to stop the spread of a file once it hits the BitTorrent Swarm. BitTorrent was not designed with copyright infringement in mind it was written to simply provide a highly efficient method of transferring large files over a pre-broadband internet. 
 
 Today BitTorrent is estimated to have more users active than [Netflix and Hulu combined](http://www.fastcompany.com/1714001/bittorrent-has-more-users-netflix-and-hulu-combined-and-doubled) and uses between 3.35% to 60% (depending on source) of total [internet bandwidth usage](http://researchcenter.paloaltonetworks.com/app-usage-risk-report-visualization/#) at [9567 Petabytes a month](http://www.netnames.com/Sizing_the_piracy_universe). With several private torrent sites registering hundreds if not thousands of petabytes of data from torrents on their sites alone.
 
