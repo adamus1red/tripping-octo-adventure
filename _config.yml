@@ -1,8 +1,8 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: ID-10T Errors
+name: Team AWESOME!<!-- not -->
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Errors! Errors everywhere!
+description: AWESOME!!!!!!!
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: ID-10T
@@ -40,13 +40,13 @@ committee:
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: wsb12157@uni.strath.ac.uk
     position: Writer of Role of Computer Scientists & Head of Catering
-    image: default.jpg
+    image: grant.jpg
   supervisor:
     name: Darren Tang
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: pjb12147@uni.strath.ac.uk
     position: Writer of Computer Law
-    image: default.jpg
+    image: darren.jpg
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 baseurl: .
