@@ -71,12 +71,10 @@
     </style>
     <script src="{{site.staticurl}}/javascript/disadvantage-ie.js"></script>
     <!-- no IE! -->
-    !--[if IE]>
-    <script>
-        $(window).load(function() {
-            $('<style>body{font-family:"Comic Sans MS"!important}#branding h2{font-size:1.25em!important}</style>').insertAfter('#navbar');
-        });
-    </script>
+    <!-- [if IE]>
+        <style>
+            * { font-family: "Comic Sans MS" !important }
+        </style>
     <![endif]-->
     <!-- analytics code -->
     <script>
