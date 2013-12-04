@@ -21,31 +21,31 @@ committee:
     name: Adam McGhie
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: rjb12180@uni.strath.ac.uk
-    position: Designer
+    position: Writer of Copyright & Designer
     image: default.jpg
   writer1:
     name: Tom Maxwell
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: gvb12182@uni.strath.ac.uk
-    position: Writer
+    position: Writer of Professional Issues 
     image: tom.jpg
   writer2:
     name: Thomas Sinclair
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: mlb12174@uni.strath.ac.uk
-    position: Writer
+    position: Writer of Data Protection 
     image: thomas.jpg
   beer:
     name: Grant Toghill
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: wsb12157@uni.strath.ac.uk
-    position: Head of catering
+    position: Writer of Role of Computer Scientists & Head of catering
     image: default.jpg
   supervisor:
     name: Darren Tang
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: XXXXXX@uni.strath.ac.uk
-    position: The guy that cries in the corner
+    position: Writer of Computer Law
     image: default.jpg
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
