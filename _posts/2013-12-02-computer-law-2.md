@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Computer Law
+title: The Copyright, Designs and Patents Act 1988
 ---
-
-## The Copyright, Designs and Patents Act 1988
 
 ###What the law basically does
 
