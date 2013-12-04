@@ -50,7 +50,7 @@ title: About Team AWESOME!<!-- not -->
                 {% for committee_positions in site.committee_positions %}
                 {% assign committee = site.committee[committee_positions] %}
                 <li class="media">
-                    <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/{{committee.image}}" alt="{{committee.name}}" width="55px"/>
+                    <img class="pull-left img-thumbnail" src="{{site.imageurl}}team/{{committee.image}}" width="55px"/>
                     <div class="media-body">
                         <h4 class="media-heading">{{committee.position}}</h4>
                         <p>Name: {{committee.name}}</p>
