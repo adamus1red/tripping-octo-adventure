@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Data Protection
+title: What is Data Protection?
 ---
-
-###What is Data Protection?
 
 <!-- Basically kids all you have to know about data protection is: don’t tell anyone anything about yourself and if you do, send them death threats and keep a hitman on speed dial (if you need a decent hitman, check the about page for my contact details and i’ll pass your information onto the guy I use ;) ). -->
 
