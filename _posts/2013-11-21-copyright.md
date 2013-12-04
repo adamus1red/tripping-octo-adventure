@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BitTorrent isn't entirely evil.
+title: BitTorrent isn't entirely evil
 excerpt: Copyright
 author: Adam McGhie
 ---
