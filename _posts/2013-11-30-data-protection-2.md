@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Data Protection Part 2
-excerpt: How does Data Protection affect me?
+title: How does Data Protection affect me?
+excerpt: Data Protection
+author: Thomas Sinclair
 ---
 
 ###How does Data Protection affect me?
