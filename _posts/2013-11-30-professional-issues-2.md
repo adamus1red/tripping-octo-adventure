@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Professional Body Part 2
+title: Federation Against Software Theft
 excerpt: The Prossentional Body
 author: Tom Maxwell
 ---
