@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Computer Law Part 2
-excerpt: This law essentially stops another body from stealing . . .
+title: How the law affects computer scientists continued
+excerpt: Computer Law
+author: Darren Tang
 ---
 
 ###What the law basically does
