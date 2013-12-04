@@ -15,3 +15,5 @@ Require that their data is not used for direct marketing.
 If the company ignores any requests from customers relating to the rights to their information then the customer can take the company to court to have information either changed or destroyed or for financial compensation.
 
 There are some exemptions to who can store information about people such as the government. If they believe a person is a threat to national security they have the right to collect and store information without their permission or knowledge. They also have the right to prevent the data subject from viewing or having any data amended.
+
+## Continued on [Next Page]({{site.baseurl}}/data-protection-2.html)
