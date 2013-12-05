@@ -27,13 +27,13 @@ committee:
     name: Tom Maxwell<!-- Tom by day. Tammy by night -->
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: gvb12182@uni.strath.ac.uk
-    position: Writer of Professional Issues 
+    position: Writer of Professional Issues & Website Design
     image: tom.jpg
   writer2:
     name: Thomas Sinclair
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: mlb12174@uni.strath.ac.uk
-    position: Writer of Data Protection 
+    position: Writer of Data Protection & Website Design
     image: thomas.jpg
   beer:
     name: <font face="comic sans ms">Grant Toghill</font>
@@ -45,7 +45,7 @@ committee:
     name: Darren Tang
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: pjb12147@uni.strath.ac.uk
-    position: Writer of Computer Law
+    position: Writer of Computer Law & Site Editor
     image: darren.jpg
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
