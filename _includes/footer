@@ -2,7 +2,7 @@
           <p><span class="text-left">
             </span>
             <span class="pull-right">
-            &#169; {{site.name}} {{ site.time | date: '%Y' }} &middot; <a href="{{site.baseurl}}/about.html">About {{site.name}}</a>
+            &#169; {{site.name}} {{ site.time | date: '%Y' }} &middot; <a href="{{site.baseurl}}/about.html">About Us</a>
             </span>
             </p>
       </div>
