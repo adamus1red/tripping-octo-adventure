@@ -36,10 +36,10 @@ committee:
     position: Writer of Data Protection & Website Design
     image: thomas.jpg
   beer:
-    name: <font face="comic sans ms">Grant Toghill</font>
+    name: <font face="'comic sans ms'">Grant Toghill</font>
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: wsb12157@uni.strath.ac.uk
-    position: Writer of Role of Computer Scientists <!-- Slave Driver, Dictator etc... -->
+    position: <font face="'comic sans ms'">Writer of Role of Computer Scientists <!-- Slave Driver, Dictator etc... --></font>
     image: grant.jpg
   supervisor:
     name: Darren Tang
